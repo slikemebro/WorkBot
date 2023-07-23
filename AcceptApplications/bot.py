@@ -24,8 +24,8 @@ logging.basicConfig(level=logging.INFO)
 bd = 'data/database.db'
 
 reported_users = {}
-GROUP_ID = 531368227
-REPORT_ID = 531368227
+GROUP_ID = 5901449431
+REPORT_ID = 5901449431
 REPORT_TIME = 15 * 60
 
 print('Воркер бот успешно запущен [+]')
